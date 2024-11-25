@@ -127,6 +127,7 @@ C:\Users\febib\source\repos\StreamingAPI\StreamingAPI\obj\Debug\net8.0\Streaming
 C:\Users\febib\source\repos\StreamingAPI\StreamingAPI\obj\Debug\net8.0\StreamingAPI.csproj.CoreCompileInputs.cache
 C:\Users\febib\source\repos\StreamingAPI\StreamingAPI\obj\Debug\net8.0\StreamingAPI.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\febib\source\repos\StreamingAPI\StreamingAPI\obj\Debug\net8.0\StreamingAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\febib\source\repos\StreamingAPI\StreamingAPI\obj\Debug\net8.0\StreamingAPI.sourcelink.json
 C:\Users\febib\source\repos\StreamingAPI\StreamingAPI\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\febib\source\repos\StreamingAPI\StreamingAPI\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\febib\source\repos\StreamingAPI\StreamingAPI\obj\Debug\net8.0\staticwebassets\msbuild.StreamingAPI.Microsoft.AspNetCore.StaticWebAssets.props
